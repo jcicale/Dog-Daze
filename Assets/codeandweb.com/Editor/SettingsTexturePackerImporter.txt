@@ -1,0 +1,9 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Sprites/unity_sprites.tpsheet
+textureFileNames:
+- Assets/Sprites/unity_sprites.png
+normalmapFileNames:
+- 
+enableDebugOutput: 0

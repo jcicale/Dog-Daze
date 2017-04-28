@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: eec1a80d734bc418d8be80a45aee12ae
+timeCreated: 1490480156
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: background-skyline
+    21300002: characters-bike_left
+    21300004: characters-bike_left_2
+    21300006: characters-bird_left
+    21300008: characters-bird_left_2
+    21300010: characters-car
+    21300012: characters-friendly_man_no_bone
+    21300014: characters-friendly_man_with_bone
+    21300016: characters-squirrel_left
+    21300018: characters-squirrel_left_2
+    21300020: characters-squirrel_right
+    21300022: characters-squirrel_right_2
+    21300024: characters-winks_left
+    21300026: characters-winks_left_2
+    21300028: characters-winks_left_run
+    21300030: characters-winks_left_run2
+    21300032: characters-winks_right
+    21300034: characters-winks_right_2
+    21300036: characters-winks_right_run
+    21300038: characters-winks_right_run2
+    21300040: effects-sparkles
+    21300042: effects-sparkles2
+    21300044: foreground-beer
+    21300046: foreground-building_blue
+    21300048: foreground-building_orange
+    21300050: foreground-building_purple
+    21300052: foreground-dimos
+    21300054: foreground-nuts_on_clark
+    21300056: foreground-sidewalk
+    21300058: foreground-sign
+    21300060: items-medium-bone
+    21300062: items-small-bone
+    21300064: items-tennis_ball
+    21300066: objects-bench
+    21300068: objects-doghouse
+    21300070: objects-fire_hydrant
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: background-skyline
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 635
+        width: 1407
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: characters-bike_left
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 56
+        width: 172
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: characters-bike_left_2
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 350
+        width: 172
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: characters-bird_left
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 897
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: characters-bird_left_2
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 903
+        width: 68
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: characters-car
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 937
+        width: 272
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: characters-friendly_man_no_bone
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 611
+        width: 51
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: characters-friendly_man_with_bone
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 840
+        width: 66
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: characters-squirrel_left
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 816
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: characters-squirrel_left_2
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 563
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: characters-squirrel_right
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 975
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: characters-squirrel_right_2
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 182
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: characters-winks_left
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 847
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: characters-winks_left_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 844
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: characters-winks_left_run
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 857
+        width: 110
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: characters-winks_left_run2
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 945
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: characters-winks_right
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 939
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: characters-winks_right_2
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 939
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: characters-winks_right_run
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 945
+        width: 110
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: characters-winks_right_run2
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 944
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: effects-sparkles
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 922
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: effects-sparkles2
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 981
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: foreground-beer
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 222
+        width: 272
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: foreground-building_blue
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 168
+        width: 180
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: foreground-building_orange
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 230
+        width: 204
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: foreground-building_purple
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 168
+        width: 180
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: foreground-dimos
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 727
+        width: 272
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: foreground-nuts_on_clark
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 727
+        width: 272
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: foreground-sidewalk
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 520
+        width: 1407
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: foreground-sign
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 931
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: items-medium-bone
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 912
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: items-small-bone
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 713
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: items-tennis_ball
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 823
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: objects-bench
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 947
+        width: 148
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: objects-doghouse
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 863
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: objects-fire_hydrant
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 857
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
